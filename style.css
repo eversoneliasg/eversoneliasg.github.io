@@ -1,42 +1,7 @@
-body {
-  background-color: #9487AD;
-  text-align: justify;
-  font-size: 16px;
-  line-height: 20px;
-}
-
-h1 {
-    text-align: center;
-}
-
-p {
-    text-align: justify;
-    font-size: 16px;
-    line-height: 20px;
-}
-
-.centeredParagraph {
-  text-align: center;
-}
-
-.centeredRoundedImages {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    border-radius: 80%;
-}
-
-.index {
-    line-height: 30px;
-    font-size: 1.2em;
-    text-align: center;
-    list-style-type: none;
-    content: '&#9193';
-}
-
-.listsStyle {
-    line-height: 15px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .italic {
